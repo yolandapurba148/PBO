@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JurnalModul7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tambah">Tambah</string>
+    <string name="title"><![CDATA[<h3>List Diary Kamu</h3>]]></string>
+    <string name="time"><![CDATA[<b>Start:</b>]]></string>
+    <string name="hal_tambah">Hal Tambah</string>
+    <string name="action_save">save</string>
+    <string name="action_delete">delete</string>
+</resources>
